@@ -1,0 +1,2 @@
+# dilshodbek
+Print("Hello World")
